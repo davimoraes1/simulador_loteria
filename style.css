@@ -32,15 +32,18 @@ button{
 }
 
 #NumSort{
-  color: white;
+  color: black;
   list-style: none;
   font-size: 3em;
   padding: 0px;
   margin: 0px;
+  display: flex;
+  flex-direction: row;
 }
 
-#numSort li{
-  display: inline;
+.result{
+  margin-top: 20px;
+  margin-right: 20px;
 }
 
 p{

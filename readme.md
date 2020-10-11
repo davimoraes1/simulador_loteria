@@ -59,11 +59,11 @@ Exemplo 3 | R$ 7             | 34
 Exemplo 4 | R$ 8             | 23
 
 ## Imagens da tela
-tela 1: tela de abertura.
+Tela 1: tela de abertura.
 ![tela 1](/imagens/tela1.png)
-tela 2: 6 números digitados, nenhum sorteado.
+Tela 2: 6 números digitados, nenhum sorteado.
 ![tela2](/imagens/tela2.png)
 #### Referências
 * HTML: [wikipedia](https://pt.wikipedia.org/wiki/HTML)
 * CSS: [w3Schools](https://www.w3schools.com/css/)
-* JavasScript [wikipedia](https://pt.wikipedia.org/wiki/JavasScript)
+* JavaScript: [wikipedia](https://pt.wikipedia.org/wiki/JavasScript)
